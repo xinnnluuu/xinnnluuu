@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @xinnnluuu
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+化学生物学生信相关研究，在这里放一些小脚本
+biochemistry bioinformation related research. Here is some custom script.
+
+<!---
+xinnnluuu/xinnnluuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
