@@ -15,7 +15,7 @@ Regulatory functions of advanced nucleic-acid structures – engineering & desig
 | 仓库 | 说明 |
 |---|---|
 | [BRIGHT-seq](https://github.com/xinnnluuu/BRIGHT-seq) | 5mC/5hmC 单碱基同时检测分析流程 |
-| [FAM-seq](https://github.com/xinnnluuu/FAM-seq) | 氟代代谢测序 RNA ac4C 分析流程 |
+| [FAM-seq](https://github.com/xinnnluuu/FAM-seq) | 氟代代谢测序 RNA ac<sup>4</sup>C 分析流程 |
 | [ReACT-seq](https://github.com/xinnnluuu/ReACT-seq) | ms²i⁶A 单碱基图谱分析流程 |
 | [G4PID-PLGPB](https://github.com/xinnnluuu/G4PID-PLGPB) | G4 结合蛋白 eCLIP 分析流程 |
 | [G4-analysis](https://github.com/xinnnluuu/G4-analysis) | 经典 G4/PQS 分析脚本工具 |
